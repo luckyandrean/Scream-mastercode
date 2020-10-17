@@ -1,6 +1,6 @@
 # Scream-mastercode
 -Techstack
-- -ReactJs
-- -NodeJs
-- -ExpressJs
-- -Firebase
+- ReactJs
+- NodeJs
+- ExpressJs
+- Firebase
